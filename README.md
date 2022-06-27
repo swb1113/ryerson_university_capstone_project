@@ -1,4 +1,4 @@
-The focus of my capstone project will be on utilizing classification (supervised learning) to develop a prediction algorithm. 
+  The focus of my capstone project will be on utilizing classification (supervised learning) to develop a prediction algorithm. 
 The goal will be to develop both a decision tree-based and a logistic regression model to predict heart disease events. 
 The efficacy of both models will be compared to determine which model is more effective in predicting heart disease events. 
 The project will also include data exploration and visualization. 
