@@ -12,5 +12,5 @@ Tentative Stages of the Project:
 1. Abstract --> Completed 
 2. Literature Review --> Completed
 3. Initial Results --> Completed
-4. Final Results and Report --> In Progress (Due: July 25, 2022)
-5. Presentation --> In Progress (Due: July 29, 2022)
+4. Final Results and Report --> Completed
+5. Presentation --> Completed
