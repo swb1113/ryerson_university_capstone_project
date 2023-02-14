@@ -2,9 +2,9 @@
 
 ### Heart Disease Classification Project
 
-**Code**: [CIND820_Final_Results.ipynb](https://github.com/swb1113/Heart_Disease_Classification/blob/main/CIND820_Final_Results.ipynb)  
-**Final Report**:  
-**Presentation**:  
+**Code**: [CIND820_Final_Results.ipynb](https://github.com/swb1113/Ryerson_university_capstone_project/blob/main/CIND820_Final_Results.ipynb)  
+**Final Report**: [Baek_Sangwon_final_report.pdf](https://github.com/swb1113/Ryerson_university_capstone_project/blob/main/Baek_Sangwon_final_report.pdf)  
+**Presentation**: [Baek_Sangwon_Final_Presentation.pptx](https://github.com/swb1113/Ryerson_university_capstone_project/blob/main/Baek_Sangwon_Final_Presentation.pptx)
 
 **Description**:  
 My final capstone project for the 12 month data analytics certificate program from Ryerson University. The focus of my capstone project was to utilize classification (supervised learning) to develop a prediction algorithm. 
