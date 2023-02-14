@@ -1,13 +1,13 @@
 ## Ryerson University - Data Analytics, Big Data, and Predictive Analytics Certification Final Capstone Project:
-
-### Heart Disease Classification Project
+This repository contains my code and reports for my final capstone project for the **12 month data analytics certificate program from Ryerson University**. 
+## Heart Disease Classification Project
 
 **Code**: [CIND820_Final_Results.ipynb](https://github.com/swb1113/Ryerson_university_capstone_project/blob/main/CIND820_Final_Results.ipynb)  
 **Final Report**: [Baek_Sangwon_final_report.pdf](https://github.com/swb1113/Ryerson_university_capstone_project/blob/main/Baek_Sangwon_final_report.pdf)  
 **Presentation**: [Baek_Sangwon_Final_Presentation.pptx](https://github.com/swb1113/Ryerson_university_capstone_project/blob/main/Baek_Sangwon_Final_Presentation.pptx)
 
 **Description**:  
-My final capstone project for the **12 month data analytics certificate program from Ryerson University**. The focus of my capstone project was to utilize classification (supervised learning) to develop a prediction algorithm. 
+The focus of my capstone project was to utilize classification (supervised learning) to develop a prediction algorithm. 
 Developed both a decision tree-based (random forest) and a logistic regression model to predict heart disease events. 
 The efficacy of both models were compared to determine which model was more effective in predicting heart disease events. 
 The project also included data exploration and visualization. 
