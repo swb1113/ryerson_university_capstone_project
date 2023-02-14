@@ -11,7 +11,7 @@ My final capstone project for the 12 month data analytics certificate program fr
 Developed both a decision tree-based (random forest) and a logistic regression model to predict heart disease events. 
 The efficacy of both models were compared to determine which model was more effective in predicting heart disease events. 
 The project also included data exploration and visualization. 
-The “Heart Failure Prediction Dataset” found publicly on Kaggle.com was used to train and test the models. 
+The “Heart Failure Prediction Dataset” found publicly on [Kaggle.com](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) was used to train and test the models. 
 Lastly, the project was programmed in python using Jupyter notebook and various libraries such as numpy, pandas, matplotlib, seaborn, and sklearn.  
 
 **Skills**:  
